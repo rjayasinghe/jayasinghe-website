@@ -1,6 +1,6 @@
 +++
 date = "2016-03-22T19:48:09+01:00"
-draft = true
+draft = false
 title = "hello static world"
 
 +++
