@@ -4,4 +4,4 @@ draft = false
 title = "hello static world"
 
 +++
-Hello World! I am a static website with blog posts and shit. Yes.
+Hello World! I am a static website with blog posts and shit. Yes. :-D
