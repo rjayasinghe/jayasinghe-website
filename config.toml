@@ -1,3 +1,4 @@
 baseurl = "http://rjayasinghe.github.io"
 languageCode = "de-de"
 title = "rob's website"
+theme = "hugo-dusky-neon-potato"
