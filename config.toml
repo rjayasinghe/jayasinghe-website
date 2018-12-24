@@ -1,4 +1,4 @@
-baseurl = "http://rjayasinghe.github.io"
+baseurl = "https://www.jayasinghe.de"
 languageCode = "de-de"
 title = "rob's website"
-theme = "hugo-dusky-neon-potato"
+theme = "hugo-nes-classic"
