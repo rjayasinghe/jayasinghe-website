@@ -1,0 +1,3 @@
+[submodule "themes/hugo-nes-classic"]
+	path = themes/hugo-nes-classic
+	url = https://github.com/rjayasinghe/hugo-nes-classic
