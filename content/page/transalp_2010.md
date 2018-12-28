@@ -3,9 +3,6 @@ date = "2016-03-26T19:44:30+01:00"
 draft = false
 title = "Transalp 2010"
 
-[menu]
-  [menu.main]
-    parent = "foo"
 +++
 Die Idee entstand im Frühjahr 2010 beim Mittagessen in der Firma. Boris und ich waren der Meinung, dass man(n) eigentlich mal über die Alpen geradelt sein sollte. Das Vorhaben klang für mich erst mal total abstrus, aber es haben ja auch schon andere geschafft. Warum also nicht? :) Nach einiger Recherche im Internet haben wir uns bei unserer ersten Tour dieser Art für die alte Römerstraße Viamala sowie für den Splügenpass entschieden. Philipp war die Strecke schon einmal als Jugendlicher gefahren und aus der Erinnerung soll sie recht einfach fahrbar sein.
 
