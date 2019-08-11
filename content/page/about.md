@@ -7,3 +7,6 @@ title = "about"
 
 This is my private website. I am not sure yet what I'll publish here. Mostly it
 will be nerdy stuff about bicycles and computers. :)
+
+{{< figure width="350" src="/page/rob_thinking.jpg" title="yes. that's me. ;)" >}}
+
