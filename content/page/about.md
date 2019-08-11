@@ -8,5 +8,12 @@ title = "about"
 This is my private website. I am not sure yet what I'll publish here. Mostly it
 will be nerdy stuff about bicycles and computers. :)
 
+The site has been built with the static site generator [Hugo](https://gohugo.io) and is
+hosted at [Netlify](https://netlify.com). If you have ever felt the desire to migrate away
+from wordpress and do something more lightweight - get in touch with me. ;)
+
+The [theme of the page](https://github.com/rjayasinghe/hugo-nes-classic) was my first try to built my own theme for Hugo. It's basicaly wrapping
+the [NES.css framework](https://nostalgic-css.github.io/NES.css/) and adds an eggplant cursor. ^^
+
 {{< figure width="350" src="/page/rob_thinking.jpg" title="yes. that's me. ;)" >}}
 
