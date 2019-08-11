@@ -2,6 +2,7 @@ baseurl = "https://www.jayasinghe.de"
 languageCode = "en-us"
 title = "rob's website"
 theme = "hugo-nes-classic"
+#theme = "nes"
 
 
 [menu]
@@ -12,7 +13,7 @@ theme = "hugo-nes-classic"
         weight = 1
 
     [[menu.main]]
-        name = "Blog"
+        name = "Articles"
         url = "/post"
         weight = 2
 
