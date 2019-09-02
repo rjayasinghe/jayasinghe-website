@@ -1,9 +1,13 @@
 baseurl = "https://www.jayasinghe.de"
 languageCode = "en-us"
 title = "rob's website"
-theme = "hugo-nes-classic"
-#theme = "nes"
+theme = "solar-theme-hugo"
+paginate = 5
+copyright = "© 2019 - Robin de Silva Jayasinghe"
 
+[params]
+  scheme = "light"
+  description = "/dev/braindump"
 
 [menu]
 
