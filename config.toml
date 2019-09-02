@@ -1,4 +1,4 @@
-baseurl = "https://www.jayasinghe.de"
+baseurl = "https://www.jayasinghe.de/"
 languageCode = "en-us"
 title = "rob's website"
 theme = "solar-theme-hugo"
