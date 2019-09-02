@@ -1,5 +1,5 @@
 ---
-title: "New_theme"
+title: "New Theme"
 date: 2019-09-02T13:19:50+02:00
 draft: false
 ---
