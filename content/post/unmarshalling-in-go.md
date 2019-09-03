@@ -51,12 +51,12 @@ But still I did not see any values in my unmarshalled struct. It was kind of obv
 }
 ```
 
-This would have been suboptimal for two reasons: I would have modeled the data format after implementation details of the used programming languagte and mapping technology and personally I don't like non-lowercase attribute names in JSON.
+This would have been suboptimal for two reasons: I would have modeled the data format after implementation details of the used programming language and mapping technology and personally I don't like non-lowercase attribute names in JSON.
 
 
 ## Tags to the rescue!
 
-So, the general problem is that at the one hand we need to care about visibility of the structs attributes and at the same time need to help the (un-)marshalling tools to map arbitrary attributes of Go structs to their counterparts in the target format (JSON, TOML, YAML, c...). In Java the natural way to help here is annotations. In Go however, there are no annotations. The Go language offers a mechanism called 'tags'. Tags are textual hints or metadata in backticks (`) placed behind behind attributes of a struct.
+So, the general problem is that at the one hand we need to care about visibility of the structs attributes and at the same time need to help the (un-)marshalling tools to map arbitrary attributes of Go structs to their counterparts in the target format (JSON, TOML, YAML, ...). In Java the natural way to help here is annotations. In Go however, there are no annotations (luckily!). The Go language offers a mechanism called 'tags'. Tags are textual hints or metadata in backticks (`) placed behind behind attributes of a struct.
 
 Tools using Go's reflection to access values from structs can use the tags to fine-tune for example the mapping algorithms. So in our case we are mapping JSON and have attributes with names being different from the struct's attribute names. Here is the resulting Go struct:
 
