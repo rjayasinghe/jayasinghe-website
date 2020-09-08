@@ -4,6 +4,8 @@ date: 2020-05-27T13:36:50+02:00
 draft: false
 ---
 
+**This behavior has been fixed in the latest version of Ubuntu 20.04. The described fix is not needed anymore.**
+
 After a short affair with Fedora 31 I recently switched to Ubuntu 20.04 LTS. Since I cannot stand the purple color and the overall look and feel of the Ubuntu Gnome Theme I switched to the Vanilla Gnome desktop shortly after install:
 
 ```bash
