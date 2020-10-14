@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "rob's website"
 theme = "solar-theme-hugo"
 paginate = 5
-copyright = "© 2019 - Robin de Silva Jayasinghe"
+copyright = "© 2020 - Robin de Silva Jayasinghe"
 
 [params]
   scheme = "light"
