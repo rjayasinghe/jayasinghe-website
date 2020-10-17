@@ -4,7 +4,7 @@ date: 2020-10-17T09:20:50+02:00
 draft: false
 ---
 Recently, Nicolas Fränkel published an [article highlighting the advantages of XML as a configuration language
-for server-side (Java) software]. Being an XML-veteran like Nicolas I totally understand all of his arguments. However, there is one argument missing which is IMHO the strongest argument why XML is avoided (especially) in cloud software scenarios.
+for server-side (Java) software](https://blog.frankel.ch/defense-xml/). Being an XML-veteran like Nicolas I totally understand all of his arguments. However, there is one argument missing which is IMHO the strongest argument why XML is avoided (especially) in cloud software scenarios.
 
 One of the big advantages of XML, the possiblity to express a schema for your XML format is at the same time the biggest weakness. The schema (the xsd file) is not part of the configuration file but specified as an external document that is usually loaded from the network (the Internet!). 
 
