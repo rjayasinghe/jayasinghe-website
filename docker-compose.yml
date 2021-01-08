@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  hugo:
+    environment:
+      - "HUGO_VERSION=0.49"
+    image: yanqd0/hugo
+    volumes:
+      - .:/srv/hugo
+    ports:
+      - 1313:1313
