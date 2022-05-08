@@ -10,6 +10,6 @@ Back to me and Twitter.. Somewhere in January (2022) I decided to pause from Twi
 
 But what is crossposter? At least the one I am using (https://crossposter.masto.donte.com.br) is a web application that has OAuth authorizations (you allow the app to read/write) on both sides (Twitter and the chaos.social Mastodon instance) and detects post on either sides and replicates them to the other side. By that you can be active on both platforms without duplicating posts manually. So, in case you plan a transition phase or just want to be present on both sides a crossposter is a pretty useful tools.
 
-I was asked which clients I use (for Mastodon). Here I am pretty straight forward: on my Laptop I use the advanced interface of the standard Mastodon frontend. Looks similar to good old Tweetdeck. On my mobile devices I currently use [Metatext](https://github.com/metabolist/metatext). Besides being not as snappy as TweetBot for Twitter it does a pretty decent job.
+I was asked which clients I use (for Mastodon). Here I am pretty straight forward: on my Laptop I use the advanced interface of the standard Mastodon frontend. Looks similar to good old Tweetdeck. On my mobile devices I currently use [Metatext](https://github.com/metabolist/metatext). Besides being not as snappy as TweetBot for Twitter it does a pretty decent job. On Android I have heard people using Tusk. But as most of the apps for Mastodon are free anyways I see not much risk in trying out different apps and find the one that fits best.
 
 That's basically all I can share for now. I hope it helps.. :)
