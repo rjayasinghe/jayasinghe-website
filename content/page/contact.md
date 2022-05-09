@@ -7,11 +7,7 @@ title = "contact"
 
 My email address is myfirstname@jayasinghe.de
 
-You can also find me at Twitter:
-
-
-{{< tweet 1073338436751376384 >}}  
-
+You can also find me on Mastodon: https://chaos.social/web/@rjayasinghe
 
 I write a lot of code. The code that is either written in my spare time or that is allowed to be published can be found at [my Github page](https://github.com/rjayasinghe)
 
