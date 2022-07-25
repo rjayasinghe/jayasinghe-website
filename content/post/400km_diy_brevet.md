@@ -1,7 +1,7 @@
 ---
 title: "400km DIY Brevet"
 date: 2022-06-07T10:11:20+02:00
-draft: true
+draft: false
 ---
 
 Um die Überschrift zu klären: ein Brevet ist eine Langstrecken-Radfahrt, die in einem bestimmten Zeitlimit (hängt von der Distanz ab) zu absolvieren ist. Die Randonneur Community veranstaltet regelmäßig Events um solche Brevets zu fahren. Da mein Alltag zu dynamisch (nettes Wort für chaotisch) ist, um mich an ein festes Datum zu binden, habe ich mir gedacht, dass ich mir das auch selber organisieren kann. Gesagt, getan.
@@ -14,9 +14,11 @@ Tja, wirklich viel vorbereitet habe ich ich nicht. Also zB habe ich nicht expliz
 
 Als klar war, wohin ich fahren würde, habe ich kurz darüber nachgedacht, den R4 von Hirschhorn nach Bad Karlshafen zu fahren und dann weiter über den sehr schönen Weserradweg. Damit wären allerdings aus den 440 schnell über 500 geworden. Ich hatte zwar keine Zweifel, dass auch das irgendwie machbar wäre, aber ich war mit Flo zum Frühstücken verabredet und mit über 500km wäre ich halt erst zum Mittagessen angekommen. Also hab ich einfach in Komoot Start und Ziel mit dem Profil "Radtour" eingegeben. Sicherlich nicht das Optimum, aber ich hatte weder groß Zeit noch Lust an der Route zu feilen. 
 
+{{< komoot 784192027 auTni75rgf89PAsUKZXnvMkc4gjIzLF7BDFd2igdsgtaawCgK8 >}}
+
 ## Ausrüstung
 
-Am Tag vor der Abfahrt habe ich meine Rahmentasche und die Lenkerrolle bepackt und ans Rad geschnallt. Spaßeshalber hab ich das Rad mal gewogen: Mit vollständigem Gepäck aber ohne Wasser und Essen hatte es knapp 13,5kg. Wasserflaschen waren dann noch mal 1,7kg und Essen noch mal 1kg. Insgesamt also so schwer wie mein Tourenrad ohne Gepäck. ;-D
+Am Tag vor der Abfahrt habe ich meine Rahmentasche und die Lenkerrolle bepackt und ans Rad geschnallt. Spaßeshalber hab ich das Rad mal gewogen: Mit vollständigem Gepäck aber ohne Wasser und Essen hatte es knapp 13,5kg. Wasserflaschen waren dann noch mal 1,7kg und Essen 1kg. Insgesamt also so schwer wie mein Tourenrad ohne Gepäck. ;-D
 
 Da klar war, dass ich über Nacht fahren würde, hatte ich zwei Dinge speziell dafür im Gepäck. Eine Lupine SL AF 7 für genug Licht und Koffeintabletten für genug wach. Für Licht nach hinten gab es noch das Lupine Rotlicht Max. Das hab ich aber inzwischen bei jeder Fahrt dabei und meistens auch angeschaltet.
 
@@ -30,7 +32,7 @@ Die Fahrt war alles in allem recht ereignislos. Also schön, manchmal anstrengen
 
 ## Der Geist
 
-Meiner Meinung nach ist die Psyche auf solchen Fahrten ein sehr wichtiger Faktor. Wenn man sich Berichte von erfahrenen Langstrecken-Fahrer*innen anschaut oder durchliest, empfehlen die oft, dass man sich nicht an der kompletten Strecke konzentriert sondern sich immer an Punkten orientiert, die relativ nah sind. Also immer die nächste Kleinstadt zum Beispiel. Ich hab's vor allem in der zweiten Hälfte so gemacht, dass ich mich an 24h Tankstellen orientiert habe. Da gab's halt Kaffe und Schoki.
+Meiner Meinung nach ist die Psyche auf solchen Fahrten ein sehr wichtiger Faktor. Wenn man sich Berichte von erfahrenen Langstrecken-Fahrerinnen anschaut oder durchliest, empfehlen die oft, dass man sich nicht an der kompletten Strecke konzentriert sondern sich immer an Punkten orientiert, die relativ nah sind. Also immer die nächste Kleinstadt zum Beispiel. Ich hab's vor allem in der zweiten Hälfte so gemacht, dass ich mich an 24h Tankstellen orientiert habe. Da gab's halt Kaffe und Schoki.
 
 Nach knapp 150km hat sich bei mir eine tiefe mentale Entspannung bemerkbar gemacht. Treten, Aussicht genießen und Nährstoffversorgung im Blick behalten. Das war alles, worum ich mich kümmern musste. So ab 250km - also abends - hab ich tatsächlich meine Familie vermisst. Denn bei meinen sonst üblichen langen Tagestouren ist das der Zeitpunkt, an dem ich sonst wieder zuhause bin. Irgendwann verging das aber wieder und ich konzentriete mich wieder auf die Fahrt bzw. auf nichts. ;-D
 
@@ -38,3 +40,8 @@ Später am Abend schrieb mir Boris, dass es im Norden regnen würde. Ein Blick a
 
 ## Der Körper
 
+So auf den ersten 150 km hab ich im Prinzip gar nichts gemerkt. Nach Frankfurt kamen die ersten Hügel und ich hab ein bisschen was in den Oberschenkeln gespürt. Auf den folgenden 100km kamen diverse Schmerzen: Hände, Rücken, Nacken.. Hab mir abergesagt, dass aufgeben keine Option ist. ;) Irgendwann war dann alles wieder weg. Später, als der Regen anfing, war ich ziemlich schnell ziemlich nass. Ich hab gefroren wie Sau und war froh um das wellige Profil. So konnte ich mich auf den Anstigen warm fahren. Als es wieder hell wurde, hab ich gemerkt, dass linke Hand und linker Fuß komplett taub waren. War es die Kälte oder war es die ungewohnte Belastung? Egal, ich konnte noch treten. ;-D
+
+## Fazit
+
+Es war die extremste Tour meines bisherigen Radler-Lebens. Es ging überraschend leicht und ich hab Blut geleckt. Mal schauen, was da in Zukunft noch so kommt. =)
