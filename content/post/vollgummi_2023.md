@@ -66,6 +66,8 @@ Es ging dann über das Dörfchen Grenchen, in dem wir leider keinen Bäcker gefu
 
 Also wieder runter ins Tal gerollt und dort am Ortsausgang von Grenchen eine riesige Bäckerei bzw. ein Café gefunden. Hier haben wir endlich unser Frühstück bekommen. Benni ist von dort aus dann weiter auf direktem Weg nach Burgdorf um dort unsere GPS Tracker abzugeben. Ich hatte mich entschieden aus Zeitgründen das Rennen auch nicht zuende zu bringen sondern einfach mehr oder weniger direkt nach Norden Richtung Basel und Deutschland zu fahren. Denn Sonntagabend einen Zug nach DE mit Fahrradmitnahme zu finden wäre wahrscheinlich nahezu unmöglich gewesen und damit hätte ich noch eine Nacht in der Schweiz gebraucht. Naja, so ging es dann total entspannt noch mal 80 km über den Jura bis nach Lörrach in Deutschland.
 
+Dass ich das Rennen genauso abgebrochen habe und auch nicht nach Burgdorf gefahren bin, war im Nachhinein genau die richtige Entscheidung. Ich kam am späten Sonntagabend zuhause an und schon Montag früh ging es mir dreckig. Ich hatte mich bei Benni angesteckt und es wäre einfach sehr unschön gewesen, so noch nach Hause fahren zu müssen. 🤢
+
 ## Fazit
 
 Ich bin ja schon vorher lange Strecken gefahren. Aber halt immer alleine oder zu zweit. So ein Rennen bzw. Bikepacking-Event mit Live-Tracker ist einfach noch mal eine ganz andere Nummer. Unterwegs immer wieder Gleichgesinnte zu treffen und mit ihnen zu schnacken war echt cool. Dazu Checkpoints, an denen es mehr oder weniger garantiert auch Verpflegung gab. Das ist auch noch mal was anderes, als nach der nächsten 24h Tanke zu suchen.
