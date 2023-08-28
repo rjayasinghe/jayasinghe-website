@@ -1,2 +1,4 @@
 public
 *.sw[o|p]
+.hugo_build.lock
+resources/_gen
