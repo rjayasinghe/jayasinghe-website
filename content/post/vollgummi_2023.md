@@ -63,7 +63,7 @@ Oben auf dem Pass hatten wir dann auch unsere Route geändert. Zum einen um uns 
 
 In der Nähe von Thun verließen wir das Tal und fuhren über schöne Radwege und kleine Straßen Richtung Jura. Das Höhenprofil auf Komoot hatte 2 sichtbare Steigungen. Eine davon war nicht rot sondern tiefschwarz eingezeichnet. Am Anfang der Steigung empfing uns dann ein „30%“ Schild. Benni wäre gerne der Radweg-Ausschilderung gefolgt. Ich musste sowieso schieben und dachte, dass es am Ende keinen Unterschied macht. Naja, sogar ich hab unterwegs an dieser Annahme gezweifelt. Denn diese Steigung war auch schiebend kaum zu meistern. Ich halte hiermit fest: der Radweg wäre sicher besser gewesen. Nach 2 km waren wir dann endlich oben und es ging viele Kilometer durch sehr dünn besiedeltes Gebiet weiter. Benni war schon ein bisschen angeschlagen, hat sich aber tapfer Richtung Checkpoint am Schloß Münchenwiler durchgebissen.
 
-![Die 30% Rampe](/vollgummi_2023/20_prozent.jpeg)
+![Die 30% Rampe](/vollgummi_2023/30_prozent.jpeg)
 
 Kurz vor dem Checkpoint kamen plötzlich 3 weitere Vollgummis von links auf unsere Route. Es folgte eine genialer “Ziel“ Einfahrt mit 5 Fahrern zum Checkpoint. Die Wahrscheinlichkeit, dass man auf so einer langen Strecke und freier Streckenwahl auf Mitfahrer trifft, ist schon ziemlich gering. Am Checkpoint gab es neben dem obligatorischen Stempel dann noch leckere Nussgipfeli und frisches Wasser. Wir sind dann direkt weiter in das nächste Städtchen Murten und haben uns dort eine Pizza, Cola und Pommes gegönnt. An der Pizzeria packte gerade ein weiterer Vollgummi Fahrer seine Sachen zusammen. Zufälle gibts. 
 
